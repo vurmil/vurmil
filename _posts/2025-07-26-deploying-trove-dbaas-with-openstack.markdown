@@ -1,3 +1,18 @@
+---
+title: "Deploying Trove DBaaS with OpenStack 2025.1 and Kolla-Ansible"
+layout: post
+date: 2025-07-26 15:35
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- trove
+- openstack
+star: true
+category: blog
+author: vurmil
+description: Trove is the Database-as-a-Service (DBaaS) component of OpenStack, allowing users to provision and manage databases on demand through the OpenStack API. This guide covers how to deploy Trove with OpenStack 2025.1 using Kolla-Ansible.
+---
+
 **Title: Deploying Trove DBaaS with OpenStack 2025.1 and Kolla-Ansible**
 
 Trove is the Database-as-a-Service (DBaaS) component of OpenStack, allowing users to provision and manage databases on demand through the OpenStack API. This guide covers how to deploy Trove with OpenStack 2025.1 using Kolla-Ansible.
