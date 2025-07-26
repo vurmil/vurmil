@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Vurmil
+bio: IT enthusiast with a passion for exploring new technologies and solving complex problems. Always eager to learn and grow in the ever-evolving world of tech.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: My curiosity drives me to constantly dive into emerging tools and frameworks, always looking for innovative ways to enhance systems and create efficient solutions. I believe in the power of continuous learning and hands-on experience to stay ahead in this dynamic field.
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://vurmil.github.io/vurmil
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -43,17 +43,11 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Vurmil
+    bio: Driven by curiosity, I constantly explore emerging tools and frameworks to create innovative and efficient IT solutions.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: vurmil
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
