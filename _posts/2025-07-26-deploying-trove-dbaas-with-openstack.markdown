@@ -69,15 +69,10 @@ Trove guest instances must also reach RabbitMQ, Trove conductor, and Trove API. 
 In addition, I ensured the guest image has appropriate metadata:
 
 * *   Distro: Ubuntu 22.04
-*     
 * *   Root partition: 10 GB
-*     
 * *   Includes cloud-init
-*     
 * *   Guest agent pre-installed and enabled
-*     
 * *   rabbitmq, trove-conductor, and trove-api reachable via routes
-*     
 
 You can build your own image or use diskimage-builder (DIB) provided by OpenStack.
 
